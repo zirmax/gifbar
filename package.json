@@ -57,7 +57,7 @@
         "electron": "^4.0.0",
         "electron-builder": "20.38.4",
         "enzyme": "^3.9.0",
-        "enzyme-adapter-react-16": "^1.5.0",
+        "enzyme-adapter-react-16": "^1.10.0",
         "jest": "^23.6.0",
         "parcel-bundler": "^1.9.6",
         "prettier": "^1.13.7",
